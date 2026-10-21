@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="1c71aae3-42ed-483c-bd68-f3676ad881d7" configVersion="587f48231c067f878a4fd62cb3dd69f909db3e48"/>
+		<Metadata name="CommonPicture.Отчеты" id="c2ef9b3f-2dab-466b-abff-26a677481511" configVersion="425f6d772d1ef4b6d89ef2cbdb1045d75f5971c1"/>
+		<Metadata name="CommonPicture.Скрепка" id="459f2cb1-2e95-44c8-9e59-4bb761565002" configVersion="481aea17ce65e9d12035a2dbaaadf105ea726838"/>
+		<Metadata name="CommonPicture.СостоянияДокумента" id="4e3f7cb8-ca62-4279-9885-b23610c9b70c" configVersion="8377c9c01458bf8ee539a3ecc1739ffc2149eab2"/>
+		<Metadata name="Configuration.СуммаРеализацийВСписке" id="ec749c1e-debe-4568-bf69-5bb47a6aea93" configVersion="f8cabf3a78a5c87b030d39c1926a4e9fcf399de2"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю" id="9c1dda4b-9409-4e65-9c8b-536ccb9e3768" configVersion="422ef0395716cbdee56a7bf5968edea42438bf1d"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка" id="785de9cd-3e3f-47c0-b5cd-1b21f45f3570" configVersion="579193130cbe06194610e7a686a1db5c88fc59c6"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка.Form" id="785de9cd-3e3f-47c0-b5cd-1b21f45f3570.0" configVersion="1914bb63bb38bc7e0f196e60e39e8abb9508e87c"/>
+		<Metadata name="Language.Русский" id="3aa77028-feee-4e52-adef-fcd9d05cb12d" configVersion="301e9022e504e499dc7f845a785e44e1d9d7f4de"/>
+		<Metadata name="Role.рс_ОсновнаяРоль" id="30aa2aaa-4537-45d4-a3fd-f7902c7686c3" configVersion="6eb4369d75c3e4b1201a27ebf7785f30a0da4372"/>
+		<Metadata name="StyleItem.БыстрыеОтборыФонГруппы" id="9f7ab033-05ad-46ae-b9ee-2b64f788bcc8" configVersion="8a94c34a3d5238305e22bb779d57e7710aa43edf"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
